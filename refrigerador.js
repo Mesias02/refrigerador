@@ -1,5 +1,6 @@
 'use strict'
 
+
 class Refrigerador {
     constructor(producto, cantidad) {
       this.producto = producto;
